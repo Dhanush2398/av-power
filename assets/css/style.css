@@ -174,7 +174,7 @@ preloader
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background-color: #FEBC35;
+  background-color: #ee6c4d;
   opacity: 0.6;
   position: absolute;
   top: 0;
@@ -249,7 +249,7 @@ site title css
   text-transform: uppercase;
   font-weight: 700;
   font-size: 18px;
-  color: #FEBC35;
+  color: #ee6c4d;
   position: relative;
 }
 
@@ -270,7 +270,7 @@ site title css
   display: inline-block;
   position: relative;
   height: 4px;
-  background-color: #FEBC35;
+  background-color: #ee6c4d;
   width: 90px;
   overflow: hidden;
 }
@@ -541,7 +541,7 @@ theme button
   overflow: hidden;
   z-index: 1;
   border: none;
-  background: #FEBC35;
+  background: #ee6c4d;
   box-shadow: 0 3px 24px rgb(0 0 0 / 10%);
 }
 
@@ -572,7 +572,7 @@ theme button
 }
 
 .theme-btn2::before {
-  background: #FEBC35;
+  background: #ee6c4d;
 }
 
 .theme-btn i {
@@ -654,7 +654,7 @@ shape css
   top: -70px;
   left: -70px;
   border-radius: 50%;
-  border: 40px solid #FEBC35; 
+  border: 40px solid #ee6c4d; 
 }
 
 .shape-2{
@@ -664,7 +664,7 @@ shape css
   right: -120px;
   bottom: -120px;
   border-radius: 50%;
-  border: 50px solid #FEBC35; 
+  border: 50px solid #ee6c4d; 
 }
 
 @media all and (max-width: 767px) {
@@ -689,7 +689,7 @@ scroll-top css
   font-size: 22px;
   border: none;
   outline: none;
-  background: #FEBC35;
+  background: #ee6c4d;
   color: #fff;
   cursor: pointer;
   width: 50px;
@@ -732,7 +732,7 @@ header top css
   height: 100%;
   top: 0;
   right: 0;
-  background: #FEBC35;
+  background: #ee6c4d;
   z-index: -1;
   -webkit-clip-path: polygon(5% 0, 100% 0, 100% 100%, 0% 100%);
   clip-path: polygon(5% 0, 100% 0, 100% 100%, 0% 100%);
@@ -758,7 +758,7 @@ header top css
 
 .header-top-contact ul li a i {
   margin-right: 10px;
-  color: #FEBC35;
+  color: #ee6c4d;
 }
 
 .header-top-right {
@@ -771,7 +771,7 @@ header top css
   width: 30px;
   height: 30px;
   line-height: 30px;
-  color: #FEBC35;
+  color: #ee6c4d;
   font-size: 16px;
   background: #fff;
   text-align: center;
@@ -782,7 +782,7 @@ header top css
 
 .header-top-social a:hover {
   background: #022147;
-  color: #FEBC35;
+  color: #ee6c4d;
 }
 
 .header-top-account a {
@@ -866,7 +866,7 @@ nav menu css
     width: 12px;
     height: 3px;
     top: 20px;
-    background: #FEBC35;
+    background: #ee6c4d;
     transition: all 0.3s ease-in-out;
     opacity: 0;
   }
@@ -875,7 +875,7 @@ nav menu css
   }
   .navbar .nav-item .dropdown-menu .dropdown-item:hover {
     background: transparent;
-    color: #FEBC35;
+    color: #ee6c4d;
     padding-left: 33px;
   }
   .navbar .nav-item .nav-link {
@@ -887,7 +887,7 @@ nav menu css
     width: 0px;
     height: 3px;
     left: 0px;
-    background: #FEBC35;
+    background: #ee6c4d;
     bottom: 18px;
     opacity: 0;
     transition: all .5s ease-in-out;
@@ -948,7 +948,7 @@ nav menu css
     padding: 5px;
   }
   .header-nav-search a:hover {
-    color: #FEBC35;
+    color: #ee6c4d;
   }
   .navbar .header-btn {
     padding-top: 8px;
@@ -1163,7 +1163,7 @@ hero css
   content: "";
   height: 100%;
   width: 100px;
-  background: #FEBC35;
+  background: #ee6c4d;
   -webkit-transform: skew(30deg);
   transform: skew(30deg);
   opacity: 0.7;
@@ -1186,7 +1186,7 @@ hero css
 }
 
 .hero-single .hero-content .hero-sub-title {
-  color: #FEBC35;
+  color: #ee6c4d;
   font-size: 20px;
   font-weight: 600;
   position: relative;
@@ -1229,7 +1229,7 @@ hero css
 }
 
 .hero-slider.owl-theme .owl-nav [class*=owl-] {
-  color: #FEBC35;
+  color: #ee6c4d;
   font-size: 25px;
   margin: 0;
   padding: 0;
@@ -1246,7 +1246,7 @@ hero css
 
 .hero-slider.owl-theme .owl-nav [class*=owl-]:hover {
   background: #fff;
-  color: #FEBC35;
+  color: #ee6c4d;
 }
 
 .hero-slider.owl-theme .owl-nav .owl-prev {
@@ -1330,7 +1330,7 @@ play btn
   font-size: 20px;
   text-align: center;
   background: #fff;
-  color: #FEBC35 !important;
+  color: #ee6c4d !important;
   position: absolute;
   border-radius: 50%;
 }
@@ -1416,11 +1416,11 @@ about css
   line-height: 55px;
   text-align: center;
   border-radius: 50px;
-  background: #FEBC35;
+  background: #ee6c4d;
 }
 
 .about-left-info p a {
-  color: #FEBC35;
+  color: #ee6c4d;
   font-size: 20px;
   font-weight: 500;
 }
@@ -1459,7 +1459,7 @@ about css
 
 .about-list li .icon span {
   font-size: 20px;
-  color: #FEBC35;
+  color: #ee6c4d;
   ;
 }
 
@@ -1567,7 +1567,7 @@ service css
   top: 75px;
   width: 100%;
   height: 4px;
-  background: #FEBC35;
+  background: #ee6c4d;
   z-index: -1;
 }
 
@@ -1577,7 +1577,7 @@ service css
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #FEBC35;
+  background: #ee6c4d;
   margin-bottom: 20px;
   margin-left: auto;
   margin-right: auto;
@@ -1604,7 +1604,7 @@ service css
 }
 
 .service-title a:hover {
-  color: #FEBC35 !important;
+  color: #ee6c4d !important;
 }
 
 .service-area2 .service-item{
@@ -1632,7 +1632,7 @@ service css
  right: 0;
  top: 0;
  transform-origin: left;
- background: #FEBC35;
+ background: #ee6c4d;
  transition: all .5s ease-in-out;
  z-index: -1;
 }
@@ -1657,7 +1657,7 @@ service css
 }
 
 .service-area3 .service-item:hover .service-icon i{
- color: #FEBC35;
+ color: #ee6c4d;
 }
 
 .service-area3 .service-item:hover p{
@@ -1685,12 +1685,12 @@ service single
 ==================== */
 
 .service-single-list i {
-  color: #FEBC35;
+  color: #ee6c4d;
   margin-right: 10px;
 }
 
 .service-download a {
-  border: 2px solid #FEBC35;
+  border: 2px solid #ee6c4d;
   padding: 10px 20px;
   color: #022147;
   display: block;
@@ -1703,7 +1703,7 @@ service single
 }
 
 .service-download a:hover {
-  background-color: #FEBC35;
+  background-color: #ee6c4d;
   color: #fff;
 }
 
@@ -1818,7 +1818,7 @@ choose css
 
 .choose-left-info{
   position: relative;
-  background: #FEBC35;
+  background: #ee6c4d;
   padding: 40px 30px
 }
 
@@ -1870,7 +1870,7 @@ choose css
   left: 12px;
   top: 0;
   content: "\f058";
-  color: #FEBC35;
+  color: #ee6c4d;
   font-family: "Font Awesome 5 Pro";
   font-weight: 600;
 }
@@ -1954,7 +1954,7 @@ testimonial css
   width: 80px;
   padding: 5px;
   border-radius: 50px;
-  border: 2px solid #FEBC35;
+  border: 2px solid #ee6c4d;
 }
 
 .testimonial-author-img img {
@@ -1967,7 +1967,7 @@ testimonial css
 
 .testimonial-quote-icon i {
   font-size: 50px;
-  color: #FEBC35;
+  color: #ee6c4d;
 }
 
 .testimonial-area .owl-dots {
@@ -1976,7 +1976,7 @@ testimonial css
 }
 
 .testimonial-area .owl-dots .owl-dot span {
-  border: 3px solid #FEBC35;
+  border: 3px solid #ee6c4d;
   margin: 5px;
   border-radius: 0px;
   width: 15px;
@@ -1987,11 +1987,11 @@ testimonial css
 }
 
 .testimonial-area .owl-dots .owl-dot.active span {
-  background-color: #FEBC35;
+  background-color: #ee6c4d;
 }
 
 .testimonial-rate {
-  color: #FEBC35;
+  color: #ee6c4d;
 }
 
 /* ===================
@@ -2040,7 +2040,7 @@ counter css
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
-  background: #FEBC35;
+  background: #ee6c4d;
   border-radius: 33% 66% 70% 30%/49% 62% 38% 51%;
   margin-bottom: 30px;
 }
@@ -2054,7 +2054,7 @@ counter css
 }
 
 .counter-box .title {
-  color: #FEBC35;
+  color: #ee6c4d;
   margin-top: 15px;
   font-size: 18px;
 }
@@ -2086,7 +2086,7 @@ Case studies css
   right: 10px;
   left: 10px;
   opacity: 0;
-  background: rgba(254, 188, 53, 0.7);
+  background: #f3baac8f;
   transform: scaleY(0);
   -webkit-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
@@ -2103,7 +2103,7 @@ Case studies css
   width: 50px;
   height: 50px;
   line-height: 50px;
-  color: #FEBC35 !important;
+  color: #ee6c4d !important;
   background: #fff;
   text-align: center;
   border-radius: 50px;
@@ -2140,7 +2140,7 @@ Case studies css
 }
 
 .case-content-info small {
-  color: #FEBC35;
+  color: #ee6c4d;
   font-size: 18px;
 }
 
@@ -2149,7 +2149,7 @@ Case studies css
 }
 
 .case-content-info a:hover {
-  color: #FEBC35;
+  color: #ee6c4d;
 }
 
 .case-arrow {
@@ -2159,7 +2159,7 @@ Case studies css
   display: flex;
   align-items: center;
   justify-content: center;
-  background: rgba(254, 188, 53, .5);
+  background: #f3baac;
 }
 
 .case-arrow i {
@@ -2170,7 +2170,7 @@ Case studies css
   line-height: 55px;
   text-align: center;
   border-radius: 50px;
-  background: #FEBC35;
+  background: #ee6c4d;
 }
 
 .case-slider.owl-theme .owl-nav {
@@ -2182,7 +2182,7 @@ Case studies css
   font-size: 25px;
   margin: 0;
   padding: 0;
-  background: #FEBC35;
+  background: #ee6c4d;
   display: inline-block;
   cursor: pointer;
   height: 50px;
@@ -2236,7 +2236,7 @@ Case studies css
 
 .filter-btns li.active,
 .filter-btns li:hover{
-  color: #FEBC35;
+  color: #ee6c4d;
 }
 
 @media all and (max-width: 1199px) {
@@ -2277,11 +2277,11 @@ case single
 }
 
 .case-sidebar .case-sidebar-content .rating a {
-  color: #FEBC35;
+  color: #ee6c4d;
 }
 
 .case-new-project {
-  background: #FEBC35!important;
+  background: #ee6c4d!important;
 }
 
 .case-new-project h4 {
@@ -2308,7 +2308,7 @@ case single
 }
 
 .case-single-list i {
-  color: #FEBC35;
+  color: #ee6c4d;
   margin-right: 10px;
 }
 
@@ -2348,7 +2348,7 @@ blog css
 
 .blog-item-meta ul li i {
   margin-right: 5px;
-  color: #FEBC35;
+  color: #ee6c4d;
 }
 
 .blog-title {
@@ -2363,11 +2363,11 @@ blog css
 
 .blog-btn {
   padding: 6px 25px;
-  border: 2px solid #FEBC35;
+  border: 2px solid #ee6c4d;
 }
 
 .blog-item-info a:hover {
-  color: #FEBC35;
+  color: #ee6c4d;
 }
 
 /* ===========================
@@ -2393,7 +2393,7 @@ blog single css
 
 .blog-meta i {
   margin-right: 5px;
-  color: #FEBC35;
+  color: #ee6c4d;
 }
 
 .blog-meta a {
@@ -2401,7 +2401,7 @@ blog single css
 }
 
 .blog-meta a:hover {
-  color: #FEBC35;
+  color: #ee6c4d;
 }
 
 .blog-details-title {
@@ -2410,7 +2410,7 @@ blog single css
 
 .blockqoute {
   background: #EEF3F7;
-  border-left: 5px solid #FEBC35;
+  border-left: 5px solid #ee6c4d;
   padding: 30px;
   font-size: 17px;
   font-style: italic;
@@ -2467,7 +2467,7 @@ blog single css
 }
 
 .blog-author-img {
-  border: 2px solid #FEBC35;
+  border: 2px solid #ee6c4d;
   padding: 5px;
   width: 250px;
 }
@@ -2493,7 +2493,7 @@ blog single css
 }
 
 .author-social a:hover {
-  color: #FEBC35;
+  color: #ee6c4d;
 }
 
 .blog-comments {
@@ -2528,7 +2528,7 @@ blog single css
 }
 
 .blog-comments-content a:hover {
-  color: #FEBC35;
+  color: #ee6c4d;
 }
 
 .blog-comments-reply {
@@ -2551,7 +2551,7 @@ blog single css
 }
 
 .blog-comments-form .form-control:focus {
-  border-color: #FEBC35;
+  border-color: #ee6c4d;
 }
 
 .blog-comments-form .theme-btn i {
@@ -2610,7 +2610,7 @@ sidebar css
   position: absolute;
   content: '';
   width: 30px;
-  border-bottom: 3px solid #FEBC35;
+  border-bottom: 3px solid #ee6c4d;
   bottom: 0;
   left: 0;
 }
@@ -2619,7 +2619,7 @@ sidebar css
   position: absolute;
   content: '';
   width: 5px;
-  border-bottom: 3px solid #FEBC35;
+  border-bottom: 3px solid #ee6c4d;
   bottom: 0;
   left: 35px;
 }
@@ -2635,7 +2635,7 @@ sidebar css
 }
 
 .widget .search-form .form-control:focus {
-  border-color: #FEBC35;
+  border-color: #ee6c4d;
 }
 
 .widget .search-form button {
@@ -2662,7 +2662,7 @@ sidebar css
 
 .widget .category-list a:hover {
   padding-left: 10px;
-  color: #FEBC35;
+  color: #ee6c4d;
 }
 
 .widget .category-list a i {
@@ -2702,7 +2702,7 @@ sidebar css
 }
 
 .widget .recent-post-bio h6 a:hover {
-  color: #FEBC35;
+  color: #ee6c4d;
 }
 
 .widget .social-share-link a {
@@ -2773,7 +2773,7 @@ contact us css
 }
 
 .contact-form .form-group .form-control:focus {
-  border-color: #FEBC35;
+  border-color: #ee6c4d;
 }
 
 .contact-map{
@@ -2822,7 +2822,7 @@ contact us css
   line-height: 55px;
   text-align: center;
   border-radius: 50px;
-  background: #FEBC35;
+  background: #ee6c4d;
 }
 
 .contact-info h5 {
@@ -2979,7 +2979,7 @@ team css
   width: 4px;
   height: 100%;
   left: 10px;
-  background: #FEBC35;
+  background: #ee6c4d;
 }
 
 .team-bio {
@@ -2992,13 +2992,13 @@ team css
 }
 
 .team-bio h5 a:hover{
-  color: #FEBC35;
+  color: #ee6c4d;
 }
 
 .team-social {
   position: absolute;
   margin-bottom: 10px;
-  background: #FEBC35;
+  background: #ee6c4d;
   border-radius: 50px;
   text-align: center;
   top: 15px;
@@ -3030,7 +3030,7 @@ team css
 
 .team-social a:hover {
  background: #fff;
- color: #FEBC35;
+ color: #ee6c4d;
 }
 
 
@@ -3049,7 +3049,7 @@ step/process css
   position: relative;
   
   font-size: 40px;
-  border: 2px solid #FEBC35;
+  border: 2px solid #ee6c4d;
   padding: 5px;
   margin-bottom: 30px;
   box-shadow: 0 3px 24px rgb(0 0 0 / 10%);
@@ -3064,7 +3064,7 @@ step/process css
   height: 35px;
   width: 35px;
   font-size: 14px;
-  background: #FEBC35;
+  background: #ee6c4d;
   line-height: 35px;
   color: #ffffff;
   left: -3px;
@@ -3080,7 +3080,7 @@ step/process css
 .process-single::before {
   content: "";
   position: absolute;
-  border-bottom: 2px dashed #FEBC35;
+  border-bottom: 2px dashed #ee6c4d;
   width: 110px;
   height: 2px;
   right: -65px;
@@ -3125,7 +3125,7 @@ pricing css
 
 .pricing-header h5 {
   font-size: 22px;
-  background: #FEBC35;
+  background: #ee6c4d;
   display: inline-block;
   color: #fff;
   padding: 15px 30px;
@@ -3151,12 +3151,12 @@ pricing css
   height: 5px;
   left: 0;
   top: 22px;
-  background: #FEBC35;
+  background: #ee6c4d;
   z-index: -1;
 }
 
 .pricing-amount-type span{
-  background: #FEBC35;
+  background: #ee6c4d;
   display: inline-block;
   padding: 10px 20px;
   color: #fff;
@@ -3172,7 +3172,7 @@ pricing css
 }
 
 .pricing-feature li i {
-  color: #FEBC35;
+  color: #ee6c4d;
   margin-right: 5px;
 }
 
@@ -3208,13 +3208,13 @@ faq css
   height: 45px;
   line-height: 45px;
   border-radius: 50px;
-  background: #FEBC35;
+  background: #ee6c4d;
   text-align: center;
   color: #fff;
 }
 
 .faq-area .accordion-button:not(.collapsed) {
-  color: #FEBC35;
+  color: #ee6c4d;
   background-color: #fff;
   box-shadow: inset 0 -1px 0 rgb(0 0 0 / 13%);
 }
@@ -3228,7 +3228,7 @@ faq css
 }
 
 .accordion-button:not(.collapsed) {
-  border-bottom: 2px solid #FEBC35;
+  border-bottom: 2px solid #ee6c4d;
 }
 
 .accordion-button:not(.collapsed)::after {
@@ -3314,7 +3314,7 @@ breadcrumb css
 }
 
 .site-breadcrumb .breadcrumb-menu li.active {
-  color: #FEBC35;
+  color: #ee6c4d;
 }
 
 .site-breadcrumb .breadcrumb-menu li::before {
@@ -3337,7 +3337,7 @@ breadcrumb css
 }
 
 .site-breadcrumb .breadcrumb-menu li a:hover {
-  color: #FEBC35;
+  color: #ee6c4d;
 }
 
 @media (max-width: 991px) {
@@ -3372,7 +3372,7 @@ pagination css
 }
 
 .pagination .page-link:hover, .pagination .page-item.active .page-link {
-  background: #FEBC35;
+  background: #ee6c4d;
 }
 
 /* ===================
@@ -3421,7 +3421,7 @@ auth css
 }
 
 .login-form .login-header h3 {
-  color: #FEBC35;
+  color: #ee6c4d;
   margin-bottom: 5px;
   font-weight: 800;
 }
@@ -3439,7 +3439,7 @@ auth css
 }
 
 .login-form .login-footer a {
-  color: #FEBC35;
+  color: #ee6c4d;
   transition: .5s;
 }
 
@@ -3465,7 +3465,7 @@ auth css
 }
 
 .login-form .form-group .form-control:focus {
-  border-color: #FEBC35;
+  border-color: #ee6c4d;
 }
 
 .login-form .form-check-input {
@@ -3474,7 +3474,7 @@ auth css
 }
 
 .login-form .forgot-pass {
-  color: #FEBC35;
+  color: #ee6c4d;
   transition: .5s;
 }
 
@@ -3495,17 +3495,17 @@ auth css
 }
 
 .login-form .form-check-label a {
-  color: #FEBC35;
+  color: #ee6c4d;
   transition: .5s;
 }
 
 .login-form .form-check-label a:hover {
-  color: #FEBC35;
+  color: #ee6c4d;
 }
 
 .form-check-input:checked {
-  background-color: #FEBC35;
-  border-color: #FEBC35;
+  background-color: #ee6c4d;
+  border-color: #ee6c4d;
 }
 
 @media only screen and (max-width: 991px) {
@@ -3569,7 +3569,7 @@ coming soon css
   height: auto;
   border: none;
   border-radius: 0px;
-  background: #FEBC35;
+  background: #ee6c4d;
   display: inline-block;
   color: #fff;
   padding-left: 30px;
@@ -3600,8 +3600,8 @@ coming soon css
 }
 
 .coming-social a:hover {
-  background: #FEBC35;
-  border-color: #FEBC35;
+  background: #ee6c4d;
+  border-color: #ee6c4d;
 }
 
 .countdown-wrap {
@@ -3619,7 +3619,7 @@ coming soon css
 .countdown-single::before {
   content: "";
   position: absolute;
-  border: 2px solid #FEBC35;
+  border: 2px solid #ee6c4d;
   height: 100%;
   width: 100%;
   left: 6px;
@@ -3628,11 +3628,11 @@ coming soon css
 }
 
 .countdown-single h2 {
-  color: #FEBC35;
+  color: #ee6c4d;
 }
 
 .countdown-single h5 {
-  color: #FEBC35;
+  color: #ee6c4d;
 }
 
 /* ===================
@@ -3649,7 +3649,7 @@ error css
 }
 
 .error-wrapper h1 span {
-  color: #FEBC35;
+  color: #ee6c4d;
 }
 
 .error-wrapper h2 {
@@ -3765,7 +3765,7 @@ footer css
 }
 
 .copyright .footer-menu li a:hover {
-  color: #FEBC35;
+  color: #ee6c4d;
 }
 
 .copyright .copyright-text {
@@ -3775,7 +3775,7 @@ footer css
 }
 
 .copyright .copyright-text a {
-  color: #FEBC35;
+  color: #ee6c4d;
   font-weight: 500;
 }
 
@@ -3793,7 +3793,7 @@ footer css
   z-index: -1;
   width: 40px;
   height: 2px;
-  background-color: #FEBC35;
+  background-color: #ee6c4d;
   bottom: 0;
   left: 0;
 }
@@ -3804,7 +3804,7 @@ footer css
   z-index: -1;
   width: 5px;
   height: 2px;
-  background-color: #FEBC35;
+  background-color: #ee6c4d;
   bottom: 0;
   left: 45px;
 }
@@ -3826,7 +3826,7 @@ footer css
 
 .footer-list li a:hover {
   padding-left: 10px;
-  color: #FEBC35;
+  color: #ee6c4d;
 }
 
 .footer-widget-box p {
@@ -3846,14 +3846,14 @@ footer css
   width: 40px;
   line-height: 35px;
   text-align: center;
-  border: 2px solid #FEBC35;
+  border: 2px solid #ee6c4d;
   color: #fff;
   border-radius: 50%;
   transition: all .5s ease-in-out;
 }
 
 .footer-social li a i:hover {
-  background: #FEBC35;
+  background: #ee6c4d;
   color: #fff;
 }
 
@@ -3886,7 +3886,7 @@ footer css
 }
 
 .footer-newsletter .subscribe-form .theme-btn:hover {
-  color: #FEBC35;
+  color: #ee6c4d;
 }
 
 .footer-newsletter .subscribe-form .theme-btn::before {
@@ -3923,7 +3923,7 @@ footer css
   text-align: center;
   -webkit-transition: 0.3s;
   transition: 0.3s;
-  color: #FEBC35;
+  color: #ee6c4d;
 }
 
 @media all and (max-width: 1199px) {
@@ -3990,7 +3990,7 @@ search popup
   margin-top: -200px;
   border-radius: 50%;
   text-align: center;
-  background: #FEBC35;
+  background: #ee6c4d;
   text-align: center;
   width: 50px;
   height: 50px;
@@ -4050,7 +4050,7 @@ search popup
   right: 10px;
   top: 7px;
   border-radius: 0px;
-  background: #FEBC35;
+  background: #ee6c4d;
   text-align: center;
   font-size: 20px;
   color: #fff !important;
@@ -4119,7 +4119,7 @@ home-2
 }
 
 .home-2 .hero-single .hero-content .hero-title span{
-  color:#FEBC35
+  color:#ee6c4d
 }
 
 .home-2 .hero-single .hero-content p{
@@ -4165,7 +4165,7 @@ home-3
 
 .frig h2{
  padding-left: 30px;
- color: #FEBC35!important;
+ color: #ee6c4d!important;
  font-size: 30px;
  font-weight: 700;
 }
@@ -4180,7 +4180,7 @@ home-3
     padding-top: 18px;
   }
   .frig h2 {
-    color: #FEBC35 !important;
+    color: #ee6c4d !important;
     font-size: 18px;
     font-weight: 800; 
   }

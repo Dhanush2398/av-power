@@ -671,6 +671,7 @@ shape css
   .shape-1{
     width: 200px;
     height: 200px;
+    z-index: -1;
   }
 }
 
@@ -1175,6 +1176,7 @@ hero css
   flex-direction: column;
   justify-content: center;
   height: 100%;
+
 }
 
 .hero-single .hero-content .hero-title {
@@ -1269,7 +1271,7 @@ hero css
   }
   .hero-slider.owl-theme .owl-nav .owl-prev, .hero-slider.owl-theme .owl-nav .owl-next {
     top: unset;
-    bottom: 5px !important;
+    bottom: -20px !important;
   }
   .hero-slider.owl-theme .owl-nav .owl-next {
     left: 120px;
@@ -4185,8 +4187,14 @@ home-3
     font-weight: 800; 
   }
   .navbar-brand img {
-    height: 50px; 
-    width: 50px;
+    height: 100px; 
+    width: auto;
+  }
+}
+
+@media (max-width: 768px) {
+  .hero-content {
+    margin-top: 100px; 
   }
 }
 

@@ -4199,3 +4199,16 @@ home-3
   }
 }
 
+.popular-tag p a {
+	color: #000000;
+	font-size: 13px;
+}
+
+.popular-tag p a:hover {
+	color: #EE6C4D;
+}
+
+.popular-tag p {
+	font-size: 9px;
+	line-height: 22px;
+}

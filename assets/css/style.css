@@ -2133,7 +2133,7 @@ Case studies css
   bottom: 20px;
   position: absolute;
   padding: 15px 15px 15px 18px;
-  background: #fff;
+  background: #2A4759;
   margin-top: 10px;
   display: flex;
   align-items: center;
@@ -2149,6 +2149,7 @@ Case studies css
 
 .case-content-info a {
   font-size: 22px;
+  color: #fff;
 }
 
 .case-content-info a:hover {

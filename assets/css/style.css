@@ -827,7 +827,7 @@ nav menu css
     padding: 33px 0 33px 0;
     font-size: 16px;
     font-weight: 500;
-    color: #0C1636;
+    color: #fff;
     text-transform: uppercase;
   }
   .navbar .nav-item:last-child .nav-link {
@@ -962,10 +962,11 @@ nav menu css
   padding-top: 0;
   padding-bottom: 0;
   z-index: 999;
+  background-color: #295184;
 }
 
 .navbar.fixed-top {
-  background-color: #fff;
+  background-color: #295184;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.17);
   animation: slide-down 0.7s;
 }
@@ -1231,7 +1232,7 @@ hero css
 }
 
 .hero-slider.owl-theme .owl-nav [class*=owl-] {
-  color: #ee6c4d;
+  color: #fff;
   font-size: 25px;
   margin: 0;
   padding: 0;

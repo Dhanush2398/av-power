@@ -1104,7 +1104,7 @@ button.navbar-toggler:focus {
 
   .navbar-toggler-icon {
     font-size: 32px;
-    color: #00235A;
+    color: #fff;
     font-weight: 500;
     padding-right: 10px;
     margin-bottom: 10px;
@@ -1116,7 +1116,7 @@ button.navbar-toggler:focus {
   }
 
   .navbar.fixed-top .navbar-toggler-icon {
-    color: #00235A;
+    color: #fff;
   }
 
   .header-nav-right {
